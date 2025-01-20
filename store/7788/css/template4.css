@@ -117,13 +117,13 @@
     width:100% !important;
 }
 #c3_pn1 #c3_pn1_img1 {
-    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Gandias.jpg') !important;
+    content:url('../image/slide/Gandias.jpg') !important;
 }
 #c3_pn1 #c3_pn1_img2 {
-    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Prancheta 2.jpg') !important;
+    content:url('../image/slide/Prancheta2.jpg') !important;
 }
 #c3_pn1 #c3_pn1_img3 {
-    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Design sem nome.jpg') !important;
+    content:url('../image/slide/DesignSemNome.jpg') !important;
 }  
 #c3_pn1 #ideaDiv {
     display: none !important;
