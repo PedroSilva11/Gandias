@@ -1,0 +1,257 @@
+/* Contenedora 3 */
+.main-color {
+    color: #fd514c;
+}
+.main-color:hover {
+    color: #666666;
+}
+#c3-panel-marcas {
+    display: block;
+}
+#c3_fixed_slider {
+    display: block;
+}
+#c3_panel_categorias {
+    display: block;
+}
+#c3_panel_categorias .c3_panel_categorias_title {
+    color: #3b3d3c !important;
+}
+#c3_panel_categorias button {
+    color: #3b3d3c !important;
+    background-color: #f0f1f5 !important;
+    border-color: #f0f1f5 !important;
+}
+#c3_panel_categorias button:hover {
+    color: #e7413b !important;
+}
+
+/* Cabecera */
+
+#c3nb #carroFlotante {
+    background-color: #fd514c !important;
+}
+#c3nb #carroFlotante h3, 
+#c3nb #carroFlotante label {
+    color: #ffffff !important;
+}
+#c3nb #carroFlotante span.totalCarroFlotante {
+    color: #ffffff !important;
+}
+#c3nb #c3nb_cat {
+    background-color: #fd514c !important;
+    border-color: #fd514c !important;
+    color: #ffffff !important;
+}
+#c3nb .navbar-inverse {
+    background-color: #fd514c !important;
+    border-color: #fd514c !important;
+}     
+#c3nb .navbar-inverse .navbar-nav > li > a {
+    color: #ffffff !important;
+}
+#c3nb .navbar-inverse .navbar-nav > li > a:hover,
+#c3nb .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #fd514c !important;
+    color: #f0f1f5 !important;
+}   
+#c3nb .navbar-inverse .navbar-toggle {
+    border-color: #fd514c !important;
+} 
+#c3nb .navbar-inverse .navbar-toggle:hover,
+#c3nb .navbar-inverse .navbar-toggle:focus {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+}
+#c3nb_divContenidoPropio ul li:hover {
+    border-bottom: 3px solid #f0f1f5 !important;
+}
+#c3nb_navigation .dropdown-menu > li > a:hover {
+    background-color: #fd514c !important;
+    color: #f0f1f5 !important;
+}
+#c3nb_Navbar .botonDesplegable path {
+    fill: #ffffff !important;
+}
+#c3nb_Navbar .badge {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    color: #fd514c !important;
+}
+
+#c3nb .csp-bg-color-blanco {
+	background-color: #ffffff !important;
+}
+
+
+/* PostNav */
+
+#c3_pn1_img1{
+	display: block !important;
+}
+
+#c3_pn1_video1{
+	display: none !important;
+	width:100% !important;
+}
+
+#c3_pn1_img2{
+	display: block !important;
+}
+
+#c3_pn1_video2{
+	display: none !important;
+	width:100% !important;
+}
+
+#c3_pn1_img3{
+	display: block !important;
+}
+
+#c3_pn1_video3{
+	display: none !important;
+	width:100% !important;
+}
+
+#c3_pn1 .c3_pn1_img {
+    width:100% !important;
+}
+#c3_pn1 #c3_pn1_img1 {
+    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Gandias.jpg') !important;
+}
+#c3_pn1 #c3_pn1_img2 {
+    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Prancheta 2.jpg') !important;
+}
+#c3_pn1 #c3_pn1_img3 {
+    content:url('/store/7788/image/slide/../../../../store/7788/image/slide/Design sem nome.jpg') !important;
+}  
+#c3_pn1 #ideaDiv {
+    display: none !important;
+}
+
+
+/* Carrusel */
+
+#ic3_1 .i3_cMarca {
+    color: #000000 !important;
+} 
+#ic3_1 .i3_cCategoria {
+    color: #000000 !important;
+} 
+#ic3_1 .i3_cSubcat {
+    color: #000000 !important;
+} 
+#ic3_1 .i3_cDesc {
+    color: #000000 !important;
+} 
+#ic3_1 .i3_cPrecio {
+    color: #e7413b !important;
+}
+#ic3_1 .slick-dots li.slick-active .fa-stack .fa {  
+     color: #fd514c !important; 
+}
+#ic3_1 .deals {
+    border: 2px solid #fd514c !important;
+}
+#ic3_1 .deals_title {
+    color: #000000 !important;
+}
+#ic3_1 .deals_item_category {
+    color: #000000 !important;
+}
+#ic3_1 .deals_item_subcategory {
+    color: #000000 !important;
+}
+#ic3_1 .deals_item_name {
+    color: #000000 !important;
+}
+#ic3_1 .deals_item_price {
+    color: #e7413b !important;
+}
+#ic3_1 .deals_item_brand {
+    color: #000000 !important;
+}
+#ic3_1 .col-item { 
+    border: 1px solid #fd514c !important; 
+}
+#ic3_1 .col-item .separator {
+     border-top: 1px solid #fd514c !important; 
+}
+#ic3_1 .col-item .btn-add {
+    border-right: 1px solid #fd514c !important; 
+}
+#ic3_1 .best_sellers {
+    background-color: #f0f1f5 !important; 
+}
+#ic3_1 .bestsellers_title {
+    color: #e7413b !important;
+}
+#ic3_1 .best_sellers .slick-dots {
+    color: #e7413b !important;
+}
+#ic3_1 .btn-add,
+#ic3_1 .btn-details,
+#ic3_1 .btn-carousel,
+#ic3_1 .btn-carosusel-top {
+    color: #000000 !important;
+}
+#ic3_1 .btn-add a,
+#ic3_1 .btn-details a,
+#ic3_1 .btn-carousel a,
+#ic3_1 .btn-carosusel-top a {
+    color: #000000 !important;
+}
+
+/* Footer1 */
+
+#c3footer1 div.rect-panel {
+    background-color: #f9f9f9 !important;
+    color: #000000 !important;
+}
+#c3footer1 div.rect-panel a{
+    color: #000000 !important;
+}
+#c3footer1 svg.phoneCircle1 {
+    fill: #e7413b !important;
+}
+#c3footer1 svg.checkBox1 {
+    fill: #e7413b !important;
+}
+#c3footer1 svg.deliveryCart1 {
+    fill: #e7413b !important;
+}
+#c3footer1 svg.deliveryTruck2 {
+    fill: #e7413b !important;
+}
+#c3footer1 svg.lock1 {
+    fill: #e7413b !important;
+}
+
+/* Footer2 */
+
+#c3footer2  {
+    margin-top: 3rem !important;
+}
+
+#c3footer2 .row-links {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    text-align: center !important;
+    display: center !important;
+}
+#c3footer2 .row-links .enlace, 
+#c3footer2 .row-links a:hover.enlace, 
+#c3footer2 .row-links a:visited.enlace {
+    color: #000000 !important;
+}
+
+#c3footer2 .row-logos {
+    display: block !important;
+}
+
+
+
+#c3footer2 .wave {
+    fill: #f4f4f4 !important;
+}
+
